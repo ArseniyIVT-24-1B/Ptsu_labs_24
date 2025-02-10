@@ -65,6 +65,8 @@ int main()
 		c[(i + k) % o] = b[i];
 	
 	}
+	
+	
 	//#5
 
 	for (int i = 0; i < o; i++) { cout << c[i] << " "; }
